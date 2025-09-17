@@ -10,7 +10,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Hgus weldeyowhanes Graduate in Computer Science & Engineering <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
-## NOW
+### NOW
 - <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Developer.gif" width="28"> I am passionate about software development, particularly in Python backend development and AI/ML. Currently, I am working as a Backend Development Intern while actively seeking job opportunities to further advance my career
  
 ## BIO
