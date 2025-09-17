@@ -53,7 +53,7 @@
 
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f">" <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Handshake.gif" width="60"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"> <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Handshake.gif" width="60"></a>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/hgus-weldeyowhanes/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Linkedin.svg"></a>
