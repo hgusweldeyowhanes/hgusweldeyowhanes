@@ -1,6 +1,6 @@
 # Hi, I'm Hgus Weldeyowhanes 
 
-###  Dedicated AI/ML Enthusiast | Graduate in Computer Science & Engineering 
+###  Software Engineer | Dedicated AI/ML Enthusiast | Graduate in Computer Science & Engineering
 
 Welcome to my GitHub! I am a dedicated and driven graduate in Computer Science and Engineering with first-class honors. My core strengths are exceptional problem-solving and analytical skills, and I am passionate about building ethical, responsible AI solutions.
 
