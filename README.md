@@ -1,12 +1,12 @@
-# Hi, I'm Hgus Weldeyowhanes 👋
+# Hi, I'm Hgus Weldeyowhanes 
 
-### 🚀 Dedicated AI/ML Enthusiast | Graduate in Computer Science & Engineering (First Class Honor)
+###  Dedicated AI/ML Enthusiast | Graduate in Computer Science & Engineering 
 
 Welcome to my GitHub! I am a dedicated and driven graduate in Computer Science and Engineering with first-class honors. My core strengths are exceptional problem-solving and analytical skills, and I am passionate about building ethical, responsible AI solutions.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - **Profession:** Aspiring researcher & academic in Computer Science and Engineering
 - **Interests:** Ethical AI, Machine Learning, Data Science, Web Development
@@ -16,7 +16,7 @@ Welcome to my GitHub! I am a dedicated and driven graduate in Computer Science a
 
 ---
 
-## 💡 Top Skills
+##  Top Skills
 
 - **Programming Languages:** Python
 - **Expertise:** Machine Learning, Data Analysis, Artificial Intelligence, Web Development
@@ -24,7 +24,7 @@ Welcome to my GitHub! I am a dedicated and driven graduate in Computer Science a
 
 ---
 
-## 🌟 Featured Project
+##  Featured Project
 
 ### [Website Phishing Detector](https://github.com/hgusweldeyowhanes/website-Phishing-detector)
 
@@ -38,7 +38,7 @@ Check out the project [here](https://github.com/hgusweldeyowhanes/website-Phishi
 
 ---
 
-## 🔥 Other Notable Projects
+##  Other Notable Projects
 
 - [Diabetic Prediction](https://github.com/hgusweldeyowhanes/Diabetic-Prediction) – Predictive analytics for healthcare.
 - [RealChatApp-Django](https://github.com/hgusweldeyowhanes/RealChatApp-Django) – Real-time chat web application.
