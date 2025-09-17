@@ -10,11 +10,11 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Hgus weldeyowhanes Graduate in Computer Science & Engineering <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
-##### NOW
+## NOW
 - <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Developer.gif" width="28"> I am passionate about software development, particularly in Python backend development and AI/ML. Currently, I am working as a Backend Development Intern while actively seeking job opportunities to further advance my career
  
-#### BIO
-## About Me  
+## BIO
+#### About Me  
 
 - **Profession:** Aspiring Researcher & Software Developer in Computer Science and Engineering  
 - **Focus Areas:** Python Backend Development, AI/ML, Data Science, and Web Development  
@@ -53,7 +53,7 @@
 
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f">" <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Handshake.gif" width="60">width="60"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f">" <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Handshake.gif" width="60"></a>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/hgus-weldeyowhanes/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Linkedin.svg"></a>
