@@ -50,6 +50,14 @@
     
 </p>
 
+## 📜 Certifications (Highlights)
+
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/MJDYEU0CQ1YK) DeepLearning.AI 
+- [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/2SP9GQANYNVH) – IBM
+- [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/8R9UZSEY8NAU) – DeepLearning.AI 
+- [Machine Learning Specialized](https://www.coursera.org/account/accomplishments/specialization/OWIF2SLE79NP) – Standford University
+- [CCNA: Introduction to Networking](https://www.credly.com/badges/2f458795-8370-43e8-8db4-57f69b702dae) - CISCO
+
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"> <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Handshake.gif" width="60"></a>
@@ -65,4 +73,9 @@
 ##  GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgusweldeyowhanes&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgusweldeyowhanes&layout=compact&theme=tokyonight)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=hgusweldeyowhanes&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+*“AI is not just about building models; it’s about creating systems that deliver meaningful and measurable impact.”*
  
