@@ -13,15 +13,14 @@
 ### NOW
 - <img src="https://github.com/hgusweldeyowhanes/hgusweldeyowhanes/blob/main/Developer.gif" width="28"> I am passionate about software development, particularly in Python backend development and AI/ML. Currently, I am working as a Backend Development Intern while actively seeking job opportunities to further advance my career
  
-## BIO
-#### About Me  
+## About Me  
 
 - **Profession:** Aspiring Researcher & Software Developer in Computer Science and Engineering  
-- **Focus Areas:** Python Backend Development, AI/ML, Data Science, and Web Development  
-- **Research Interests:** Ethical & Responsible AI, Autonomous Systems, and Pattern Recognition  
-- **Philosophy:** Dedicated to building impactful solutions through responsible innovation  
-- **Collaboration:** Quick learner, open-minded, and proactive team player  
-- **Mission:** Advancing knowledge and contributing meaningfully through research and software innovation  
+- **Focus Areas:** Software Development, Artificial Intelligence, Machine Learning, Data Science, Computer Vision, and Cryptography
+- **Research Interests:** Secure AI systems, Ethical & Responsible AI, Pattern Recognition, and Intelligent Automation
+- **Philosophy:** Committed to solving real-world challenges by combining strong problem-solving skills with innovative research and practical software solutions
+- **Collaboration:** Adaptive, fast learner, and proactive team player with strong communication skills
+- **Mission:** To advance knowledge in AI and emerging technologies while contributing to impactful projects that drive innovation in both academia and industry
 
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:hgusha2010@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-hgusha2010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
@@ -63,4 +62,7 @@
 </p> 
 
 
-_Thank you for visiting! Let’s connect and collaborate to build a responsible and innovative future in AI._
+##  GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgusweldeyowhanes&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgusweldeyowhanes&layout=compact&theme=tokyonight)
+ 
