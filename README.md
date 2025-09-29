@@ -27,8 +27,8 @@
 
 ##  Featured Projects
 
-- [Website Phishing Detector](https://github.com/hgusweldeyowhanes/website-Phishing-detector)
-- [Diabetic Prediction](https://github.com/hgusweldeyowhanes/Diabetic-Prediction) – Predictive analytics for healthcare.
+- [Website Phishing Detector](https://github.com/hgusweldeyowhanes/website-Phishing-detector) - Identify fake Url
+- [Diabetic Prediction](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) – Predictive analytics for healthcare.
 - [RealChatApp-Django](https://github.com/hgusweldeyowhanes/RealChatApp-Django) – Real-time chat web application.
 - [World Population Analysis](https://github.com/hgusweldeyowhanes/world-population-analysis) – Data analysis and visualization.
 - [Twitter Sentiment Analysis EDA](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) – Sentiment insights from social media.
@@ -54,7 +54,7 @@
 
 - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/MJDYEU0CQ1YK) DeepLearning.AI 
 - [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/2SP9GQANYNVH) – IBM
-- [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/8R9UZSEY8NAU) – DeepLearning.AI 
+- [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/8R9UZSEY8NAU) – DeepLearning.AI adn StandfordUniversity
 - [Machine Learning Specialized](https://www.coursera.org/account/accomplishments/specialization/OWIF2SLE79NP) – Standford University
 - [CCNA: Introduction to Networking](https://www.credly.com/badges/2f458795-8370-43e8-8db4-57f69b702dae) - CISCO
 
