@@ -1,72 +1,92 @@
-<div align="center">
+<!--
+  Neofetch-style GitHub profile README
+  Inspired by terminal system-info layouts
+-->
 
-# Hgus Weldeyowhanes Wellu
+<table>
+<tr>
+<td width="420" valign="top">
 
-**Computer Science & Engineering graduate** · Addis Ababa, Ethiopia  
-Building products with **Python backends**, **AI/ML**, and clean engineering fundamentals.
+<img src="./ascii_portrait.png" alt="ASCII portrait of Hgus Weldeyowhanes" width="380" />
 
-[![Profile views](https://komarev.com/ghpvc/?username=hgusweldeyowhanes&color=0e75b6)](https://github.com/hgusweldeyowhanes)
-[![Followers](https://img.shields.io/github/followers/hgusweldeyowhanes?style=social)](https://github.com/hgusweldeyowhanes?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hgus_Weldeyowhanes-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hgus-weldeyowhanes/)
-[![Email](https://img.shields.io/badge/Email-hgusha2010%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:hgusha2010@gmail.com)
+</td>
+<td valign="top">
 
-</div>
+```text
+hgus@weldeyowhanes
+------------------
+OS ............... Windows · Linux · always shipping
+Uptime ........... CS & Engineering graduate
+Host ............. Addis Ababa, Ethiopia
+Kernel ........... Python · Django · Applied ML
+Shell ............ PowerShell · Bash · VS Code / Cursor
+IDE .............. Cursor · VS Code · Jupyter
+
+Languages.Prog ... Python, JavaScript, SQL, C++, Shell
+Languages.Web .... HTML, CSS, JSON, REST
+Languages.Real ... English, Tigrinya, Amharic
+
+Hobbies.Soft ..... Backend APIs · ML systems · automation
+Hobbies.Hard ..... Homelab ideas · clean architecture
+
+Contact
+  Email .......... hgusha2010@gmail.com
+  LinkedIn ....... linkedin.com/in/hgus-weldeyowhanes
+  GitHub ......... github.com/hgusweldeyowhanes
+
+GitHub Stats
+  Repos .......... github.com/hgusweldeyowhanes?tab=repositories
+  Focus .......... Backend · AI/ML · production APIs
+  Open to ........ Full-time · internship · freelance
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### About
+### `$ whoami`
 
-I focus on **backend development (Django / DRF)** and **applied machine learning**—turning data and APIs into useful systems, not just notebooks.
-
-- Backend internship & freelance-style projects; **open to full-time roles**
-- Interests: secure AI, responsible ML, intelligent automation, production APIs
-- How I work: clear problem framing, solid code structure, measurable impact
+Backend & applied-ML engineer building **useful systems** — Django APIs, real-time services, and ML that ships beyond notebooks.
 
 ---
 
-### Featured projects
+### `$ ls ~/projects`
 
-| Project | What it does | Stack |
-|---------|----------------|--------|
-| [**Realtime chat service**](https://github.com/hgusweldeyowhanes/realtime-chat-service) | Real-time 1:1 / group chat with presence | Django, Channels, WebSockets, gRPC, Docker |
-| [**Diabetes risk prediction**](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Clinical risk scoring with ensemble ML + explanations | Django, scikit-learn, React |
-| [**Ecommerce platform API**](https://github.com/hgusweldeyowhanes/ecomerce-platform) | Modular catalog, cart, checkout, payments | Django REST, JWT, Stripe/Chapa, Celery |
-| [**Website phishing detector**](https://github.com/hgusweldeyowhanes/website-Phishing-detector) | Classify suspicious URLs | Python, scikit-learn, notebooks |
-| [**Portfolio**](https://github.com/hgusweldeyowhanes/portfolio) | Personal site / professional presence | HTML, CSS |
-| [**World population analysis**](https://github.com/hgusweldeyowhanes/world-population-analysis) | EDA & visualization | Python, Jupyter |
-| [**Twitter sentiment (EDA)**](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) | Social text sentiment exploration | NLP, Jupyter |
-| [**DES encryption (Python)**](https://github.com/hgusweldeyowhanes/DES-Python-Encryption) | Classic crypto implementation | Python |
-
-Full list: [repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
+| Project | Stack | What |
+|---------|-------|------|
+| [realtime-chat-service](https://github.com/hgusweldeyowhanes/realtime-chat-service) | Django · Channels · gRPC · Docker | Real-time chat + presence |
+| [diabetes-risk-prediction](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Django · scikit-learn · React | Clinical risk scoring |
+| [ecomerce-platform](https://github.com/hgusweldeyowhanes/ecomerce-platform) | DRF · JWT · Stripe/Chapa | Catalog · cart · checkout |
+| [Face-Recognition-Attendance](https://github.com/hgusweldeyowhanes/Face-Recognition-Attendance) | Flask · OpenCV · face_recognition | Classroom attendance |
+| [website-Phishing-detector](https://github.com/hgusweldeyowhanes/website-Phishing-detector) | Python · ML | Suspicious URL classification |
+| [portfolio](https://github.com/hgusweldeyowhanes/portfolio) | HTML · CSS | Personal site |
 
 ---
 
-### Skills
+### `$ neofetch --skills`
 
-**Languages & core**  
-`Python` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `Shell`
+```text
+[██████████░░░░░░░░░░] Python / Django / DRF
+[█████████░░░░░░░░░░░] ML · pandas · scikit-learn
+[████████░░░░░░░░░░░░] Docker · PostgreSQL · Redis
+[███████░░░░░░░░░░░░░] WebSockets · Celery · React
+[██████░░░░░░░░░░░░░░] Testing · Git · Docs
+```
 
-**Backend & APIs**  
-`Django` · `Django REST Framework` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
-
-**Data & ML**  
-`pandas` · `NumPy` · `scikit-learn` · `Matplotlib` / `Seaborn` · `Jupyter` · model evaluation & feature engineering
-
-**Practices**  
-REST design · service-layer backends · testing · Git · clear documentation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="sklearn"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
 ---
 
-### Certifications
+### `$ cat ~/certs.txt`
 
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/OWIF2SLE79NP) — Stanford Online / DeepLearning.AI  
 - [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/8R9UZSEY8NAU) — Stanford Online / DeepLearning.AI  
@@ -76,33 +96,25 @@ REST design · service-layer backends · testing · Git · clear documentation
 
 ---
 
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hgus-weldeyowhanes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hgusha2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-Open to **backend**, **ML engineering**, and **full-stack Python** roles—happy to chat about internships and junior positions.
-
----
-
-### GitHub
+### `$ git stats`
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgusweldeyowhanes&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgusweldeyowhanes&layout=compact&theme=transparent&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgusweldeyowhanes&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgusweldeyowhanes&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub streak](https://streak-stats.demolab.com?user=hgusweldeyowhanes&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub streak](https://streak-stats.demolab.com?user=hgusweldeyowhanes&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Profile views](https://komarev.com/ghpvc/?username=hgusweldeyowhanes&color=58e6b4&style=flat-square)](https://github.com/hgusweldeyowhanes)
 
 </div>
 
 ---
 
-<div align="center">
+```text
+$ echo "Open to backend · ML engineering · full-stack Python roles"
+Open to backend · ML engineering · full-stack Python roles
 
-*Build systems that are clear, measurable, and useful—not just model accuracy on a chart.*
-
-</div>
+$ mail hgusha2010@gmail.com
+Subject: Let's build something useful.
+```
