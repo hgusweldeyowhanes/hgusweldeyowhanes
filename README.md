@@ -3,7 +3,7 @@
 # Hgus Weldeyowhanes Wellu
 
 **Computer Science & Engineering graduate** · Addis Ababa, Ethiopia  
-Building products with **Python backends**, **AI/ML**, and clean engineering fundamentals.
+Building products with **Python** and **.NET backends**, **AI/ML**, and clean engineering fundamentals.
 
 [![Profile views](https://komarev.com/ghpvc/?username=hgusweldeyowhanes&color=0e75b6)](https://github.com/hgusweldeyowhanes)
 [![Followers](https://img.shields.io/github/followers/hgusweldeyowhanes?style=social)](https://github.com/hgusweldeyowhanes?tab=followers)
@@ -16,9 +16,9 @@ Building products with **Python backends**, **AI/ML**, and clean engineering fun
 
 ### About
 
-I focus on **backend development (Django / DRF)** and **applied machine learning**—turning data and APIs into useful systems, not just notebooks.
+I focus on **backend development (Django / DRF, C# / ASP.NET)** and **applied machine learning**—turning data and APIs into useful systems, not just notebooks.
 
-- Backend internship & freelance-style projects; **open to full-time roles**
+- Backend, ML, and full-stack delivery (Python / Django, C# / .NET); **open to mid-level full-time roles**
 - Interests: secure AI, responsible ML, intelligent automation, production APIs
 - How I work: clear problem framing, solid code structure, measurable impact
 
@@ -44,10 +44,10 @@ Full list: [repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
 ### Skills
 
 **Languages & core**  
-`Python` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `Shell`
+`Python` · `C#` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `Shell`
 
 **Backend & APIs**  
-`Django` · `Django REST Framework` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
+`Django` · `Django REST Framework` · `.NET` · `ASP.NET` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
 
 **Data & ML**  
 `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` / `Seaborn` · `Jupyter` · model evaluation & feature engineering
@@ -57,7 +57,9 @@ REST design · service-layer backends · testing · Git · clear documentation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="sklearn"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
@@ -84,7 +86,7 @@ REST design · service-layer backends · testing · Git · clear documentation
   <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-Open to **backend**, **ML engineering**, and **full-stack Python** roles—happy to chat about internships and junior positions.
+Open to **mid-level backend**, **ML engineering**, and **full-stack** roles (Python / Django and C# / .NET)—happy to chat.
 
 ---
 
