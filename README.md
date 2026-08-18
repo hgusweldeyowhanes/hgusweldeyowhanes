@@ -92,14 +92,11 @@ Open to **mid-level backend**, **ML engineering**, and **full-stack** roles (Pyt
 
 ### GitHub
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgusweldeyowhanes&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgusweldeyowhanes&layout=compact&theme=transparent&hide_border=true)
-
-[![GitHub streak](https://streak-stats.demolab.com?user=hgusweldeyowhanes&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/Profile-hgusweldeyowhanes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+  <a href="https://github.com/hgusweldeyowhanes?tab=repositories"><img src="https://img.shields.io/badge/Repositories-code-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://github.com/hgusweldeyowhanes?tab=followers"><img src="https://img.shields.io/github/followers/hgusweldeyowhanes?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="Followers"/></a>
+</p>
 
 ---
 
