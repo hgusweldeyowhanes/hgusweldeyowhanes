@@ -27,7 +27,6 @@ I build **production backends** and **useful ML systems**—APIs, real-time serv
 
 ### Pinned projects
 
-> On GitHub: profile → **Customize your pins** → select these six.
 
 | Project | What it does | Stack |
 |---------|----------------|--------|
