@@ -3,7 +3,8 @@
 # Hgus Weldeyowhanes Wellu
 
 **Computer Science & Engineering graduate** · Addis Ababa, Ethiopia  
-Building products with **Python** and **.NET backends**, **AI/ML**, and clean engineering fundamentals.
+
+Backend, APIs, and applied ML — shipping products with **Python / Django**, **C# / .NET**, and clean engineering.
 
 [![Profile views](https://komarev.com/ghpvc/?username=hgusweldeyowhanes&color=0e75b6)](https://github.com/hgusweldeyowhanes)
 [![Followers](https://img.shields.io/github/followers/hgusweldeyowhanes?style=social)](https://github.com/hgusweldeyowhanes?tab=followers)
@@ -16,44 +17,67 @@ Building products with **Python** and **.NET backends**, **AI/ML**, and clean en
 
 ### About
 
-I focus on **backend development (Django / DRF, C# / ASP.NET)** and **applied machine learning**—turning data and APIs into useful systems, not just notebooks.
+I build **production backends** and **useful ML systems**—APIs, real-time services, and models that leave the notebook.
 
-- Backend, ML, and full-stack delivery (Python / Django, C# / .NET); **open to mid-level full-time roles**
-- Interests: secure AI, responsible ML, intelligent automation, production APIs
-- How I work: clear problem framing, solid code structure, measurable impact
+- Open to **mid-level full-time** roles (backend · ML · full-stack)
+- Stack focus: Django / DRF, ASP.NET, PostgreSQL, Docker, scikit-learn
+- How I work: clear problem framing → solid structure → measurable delivery
 
 ---
 
-### Featured projects
+### Pinned projects
 
-| Project | What it does | Stack |
-|---------|----------------|--------|
-| [**Realtime chat service**](https://github.com/hgusweldeyowhanes/realtime-chat-service) | Real-time 1:1 / group chat with presence | Django, Channels, WebSockets, gRPC, Docker |
-| [**Diabetes risk prediction**](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Clinical risk scoring with ensemble ML + explanations | Django, scikit-learn, React |
-| [**Ecommerce platform API**](https://github.com/hgusweldeyowhanes/ecomerce-platform) | Modular catalog, cart, checkout, payments | Django REST, JWT, Stripe/Chapa, Celery |
-| [**Website phishing detector**](https://github.com/hgusweldeyowhanes/website-Phishing-detector) | Classify suspicious URLs | Python, scikit-learn, notebooks |
-| [**Portfolio**](https://github.com/hgusweldeyowhanes/portfolio) | Personal site / professional presence | HTML, CSS |
-| [**World population analysis**](https://github.com/hgusweldeyowhanes/world-population-analysis) | EDA & visualization | Python, Jupyter |
-| [**Twitter sentiment (EDA)**](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) | Social text sentiment exploration | NLP, Jupyter |
-| [**DES encryption (Python)**](https://github.com/hgusweldeyowhanes/DES-Python-Encryption) | Classic crypto implementation | Python |
+> On GitHub: **Customize your pins** → pick the six below for the strongest profile grid.
 
-Full list: [repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
+<p align="center">
+  <a href="https://github.com/hgusweldeyowhanes/telegram-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hgusweldeyowhanes&repo=telegram-bot&theme=transparent&hide_border=true&show_owner=false" alt="telegram-bot" />
+  </a>
+  <a href="https://github.com/hgusweldeyowhanes/Sign-Language-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hgusweldeyowhanes&repo=Sign-Language-Detection&theme=transparent&hide_border=true&show_owner=false" alt="Sign-Language-Detection" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hgusweldeyowhanes/ecommerce-platform-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hgusweldeyowhanes&repo=ecommerce-platform-backend&theme=transparent&hide_border=true&show_owner=false" alt="ecommerce-platform-backend" />
+  </a>
+  <a href="https://github.com/hgusweldeyowhanes/realtime-chat-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hgusweldeyowhanes&repo=realtime-chat-service&theme=transparent&hide_border=true&show_owner=false" alt="realtime-chat-service" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hgusweldeyowhanes/diabetes-risk-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hgusweldeyowhanes&repo=diabetes-risk-prediction&theme=transparent&hide_border=true&show_owner=false" alt="diabetes-risk-prediction" />
+  </a>
+  <a href="https://github.com/hgusweldeyowhanes/website-Phishing-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hgusweldeyowhanes&repo=website-Phishing-detector&theme=transparent&hide_border=true&show_owner=false" alt="website-Phishing-detector" />
+  </a>
+</p>
+
+| Pin this | Why it stands out | Stack |
+|----------|-------------------|--------|
+| [**telegram-bot**](https://github.com/hgusweldeyowhanes/telegram-bot) | Daily tech briefings with topics, dedupe, optional AI summaries — live on Render | Python, Telegram API, NewsAPI, webhooks |
+| [**Sign-Language-Detection**](https://github.com/hgusweldeyowhanes/Sign-Language-Detection) | Real-time signs + A–Z fingerspelling studio (TTS, practice, export) | Python, OpenCV, MediaPipe, CNN / Keras |
+| [**ecommerce-platform-backend**](https://github.com/hgusweldeyowhanes/ecommerce-platform-backend) | Modular shop API: catalog, cart, auth, checkout, payments | Django REST, JWT, Stripe/Chapa, Celery |
+| [**realtime-chat-service**](https://github.com/hgusweldeyowhanes/realtime-chat-service) | 1:1 / group chat with presence | Django Channels, WebSockets, gRPC, Docker |
+| [**diabetes-risk-prediction**](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Clinical risk scoring + explanations | Django, scikit-learn, React |
+| [**website-Phishing-detector**](https://github.com/hgusweldeyowhanes/website-Phishing-detector) | Classify suspicious URLs | Python, scikit-learn |
+
+More work: [**portfolio**](https://github.com/hgusweldeyowhanes/portfolio) · [world population analysis](https://github.com/hgusweldeyowhanes/world-population-analysis) · [Twitter sentiment EDA](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) · [DES encryption](https://github.com/hgusweldeyowhanes/DES-Python-Encryption)
+
+All repos → [github.com/hgusweldeyowhanes?tab=repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
 
 ---
 
 ### Skills
 
-**Languages & core**  
-`Python` · `C#` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `Shell`
+**Languages** · `Python` · `C#` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `Shell`
 
-**Backend & APIs**  
-`Django` · `Django REST Framework` · `.NET` · `ASP.NET` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
+**Backend** · `Django` · `DRF` · `.NET` · `ASP.NET` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
 
-**Data & ML**  
-`pandas` · `NumPy` · `scikit-learn` · `Matplotlib` / `Seaborn` · `Jupyter` · model evaluation & feature engineering
+**Data & ML** · `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` / `Seaborn` · `Jupyter` · evaluation & feature engineering
 
-**Practices**  
-REST design · service-layer backends · testing · Git · clear documentation
+**Practices** · REST design · service layers · testing · Git · clear docs · deploy (Render / Docker)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -86,22 +110,12 @@ REST design · service-layer backends · testing · Git · clear documentation
   <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-Open to **backend**, **ML engineering**, and **full-stack** roles (Python / Django and C# / .NET)—happy to chat.
-
----
-
-### GitHub
-
-<p align="center">
-  <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/Profile-hgusweldeyowhanes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-  <a href="https://github.com/hgusweldeyowhanes?tab=repositories"><img src="https://img.shields.io/badge/Repositories-code-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-  <a href="https://github.com/hgusweldeyowhanes?tab=followers"><img src="https://img.shields.io/github/followers/hgusweldeyowhanes?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="Followers"/></a>
-</p>
+Open to **backend**, **ML engineering**, and **full-stack** roles — happy to chat.
 
 ---
 
 <div align="center">
 
-*Build systems that are clear, measurable, and useful—not just model accuracy on a chart.*
+*Build systems that are clear, measurable, and useful.*
 
 </div>
