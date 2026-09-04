@@ -45,7 +45,7 @@ All repos → [github.com/hgusweldeyowhanes?tab=repositories](https://github.com
 
 ### Skills
 
-**Languages** · `Python` · `C#` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `Shell`
+**Languages** · `Python` · `C#` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `C`
 
 **Backend** · `Django` · `DRF` · `.NET` · `ASP.NET` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
 
