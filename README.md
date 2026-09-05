@@ -15,7 +15,7 @@ Backend, APIs, and applied ML — shipping products with **Python / Django**, **
 
 ---
 
-## I build production backends & ML systems
+##I build production backends & ML systems
 APIs, real-time services, and models that leave the notebook.
 
 ### Open Opportunities
