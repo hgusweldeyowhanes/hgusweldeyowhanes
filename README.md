@@ -2,83 +2,97 @@
 
 # Hgus Weldeyowhanes Wellu
 
-**Computer Science & Engineering** · Addis Ababa, Ethiopia
+**Computer Science & Engineering graduate** · Addis Ababa, Ethiopia  
 
-Backend engineer focused on APIs, payments, and applied machine learning.  
-I ship maintainable systems in **Python / Django** and **C# / .NET**.
+Backend, APIs, and applied ML — shipping products with **Python / Django**, **C# / .NET**, and clean engineering.
 
-[LinkedIn](https://www.linkedin.com/in/hgus-weldeyowhanes/)
-·
-[Email](mailto:hgusha2010@gmail.com)
-·
-[GitHub](https://github.com/hgusweldeyowhanes)
-·
-[Portfolio](https://github.com/hgusweldeyowhanes/portfolio)
+[![Profile views](https://komarev.com/ghpvc/?username=hgusweldeyowhanes&color=0e75b6)](https://github.com/hgusweldeyowhanes)
+[![Followers](https://img.shields.io/github/followers/hgusweldeyowhanes?style=social)](https://github.com/hgusweldeyowhanes?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hgus_Weldeyowhanes-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hgus-weldeyowhanes/)
+[![Email](https://img.shields.io/badge/Email-hgusha2010%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:hgusha2010@gmail.com)
 
 </div>
 
 ---
 
-## About
+## I build production backends & ML systems
+APIs, real-time services, and models that leave the notebook.
 
-I design and implement product backends: authentication, checkout, inventory, real-time features, and model-backed APIs. Recent work includes a full e-commerce stack (Tradiva), a community lottery platform, and applied ML tools for risk scoring and computer vision.
+### Open Opportunities
+🎯 **Senior-level roles** | Backend · ML · Full-Stack
 
-Open to **backend**, **ML engineering**, and **full-stack** roles.
-
----
-
-## Selected work
-
-| Project | Description | Stack |
-|---------|-------------|--------|
-| [**Tradiva API**](https://github.com/hgusweldeyowhanes/ecomerce-platform) | Shop backend for Ethiopian clothing — catalog, cart, checkout, coupons, inventory, reviews, and payments (Chapa / Stripe / mock). | Django · DRF · JWT · MongoDB · Celery |
-| [**Tradiva storefront**](https://github.com/hgusweldeyowhanes/ecommerce-platform-frontend) | Customer storefront and staff desk for orders, stock, and catalog. | React · Vite |
-| [**YZ Lottery**](https://github.com/hgusweldeyowhanes/lottery-platform) | Community lottery API — payment verification, multi-prize draws, creator payouts. | Django · DRF · PostgreSQL |
-| [**TaskFlow**](https://github.com/hgusweldeyowhanes/collaborative-kanban) | Real-time collaborative Kanban with JWT auth and a deployable Docker setup. | ASP.NET Core · PostgreSQL · React |
-| [**Ledger**](https://github.com/hgusweldeyowhanes/ledger) | Magazine-style blog with a versioned JSON API, editorial workflow, and React client. | Django · React |
-| [**Sign Language Detection**](https://github.com/hgusweldeyowhanes/Sign-Language-Detection) | Real-time gesture and A–Z fingerspelling studio with practice and export. | Python · OpenCV · MediaPipe · Keras |
-| [**Diabetes risk prediction**](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Clinical risk scoring with ensemble models, explanations, and a React UI. | Django · scikit-learn · React |
-| [**Tech news bot**](https://github.com/hgusweldeyowhanes/telegram-bot) | Scheduled tech briefings with topic filters, de-duplication, and optional AI summaries. | Python · Telegram · Render |
-
-Additional work: [real-time chat](https://github.com/hgusweldeyowhanes/RealChatApp-Django) · [DES encryption](https://github.com/hgusweldeyowhanes/DES-Python-Encryption) · [all repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
+### Tech Stack
+**Backend:** Django / DRF, ASP.NET  
+**Data:** PostgreSQL, scikit-learn  
+**DevOps:** Docker, Kubernetes (if applicable)
 
 ---
 
-## Skills
+### Pinned projects
 
-**Languages** — Python, C#, SQL, JavaScript, HTML/CSS, C++
 
-**Backend** — Django, Django REST Framework, ASP.NET Core, JWT, WebSockets, Celery, Redis
+| Project | What it does | Stack |
+|---------|----------------|--------|
+| [**telegram-bot**](https://github.com/hgusweldeyowhanes/telegram-bot) | Daily tech briefings — topics, dedupe, optional AI summaries (deployed on Render) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) Telegram · NewsAPI |
+| [**Sign-Language-Detection**](https://github.com/hgusweldeyowhanes/Sign-Language-Detection) | Real-time signs + A–Z fingerspelling studio (TTS, practice, export) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) OpenCV · MediaPipe · Keras |
+| [**ecommerce-platform-backend**](https://github.com/hgusweldeyowhanes/ecommerce-platform-backend) | Modular shop API: catalog, cart, auth, checkout, payments | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) DRF · JWT · Celery |
+| [**realtime-chat-service**](https://github.com/hgusweldeyowhanes/realtime-chat-service) | Real-time 1:1 / group chat with presence | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) Channels · WebSockets · Docker |
+| [**diabetes-risk-prediction**](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Clinical risk scoring with ensemble ML + explanations | ![Python](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) Django · React |
+| [**website-Phishing-detector**](https://github.com/hgusweldeyowhanes/website-Phishing-detector) | Classify suspicious URLs | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) scikit-learn |
 
-**Data** — PostgreSQL, MongoDB, REST API design, service-layer architecture
+More work: [**portfolio**](https://github.com/hgusweldeyowhanes/portfolio) · [world population analysis](https://github.com/hgusweldeyowhanes/world-population-analysis) · [Twitter sentiment EDA](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) · [DES encryption](https://github.com/hgusweldeyowhanes/DES-Python-Encryption)
 
-**Machine learning** — scikit-learn, pandas, NumPy, feature engineering, model evaluation
+All repos → [github.com/hgusweldeyowhanes?tab=repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
 
-**Delivery** — Docker, Git, automated tests, GitHub Actions, Render
+---
+
+### Skills
+
+**Languages** · `Python` · `C#` · `SQL` · `JavaScript` · `HTML/CSS` · `C++` · `C`
+
+**Backend** · `Django` · `DRF` · `.NET` · `ASP.NET` · `JWT` · `WebSockets` · `Docker` · `PostgreSQL` · `Redis` · `Celery`
+
+**Data & ML** · `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` / `Seaborn` · `Jupyter` · evaluation & feature engineering
+
+**Practices** · REST design · service layers · testing · Git · clear docs · deploy (Render / Docker)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
 ---
 
-## Certifications
+### Certifications
 
-- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/OWIF2SLE79NP) — Stanford Online / DeepLearning.AI
-- [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/8R9UZSEY8NAU) — Stanford Online / DeepLearning.AI
-- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/MJDYEU0CQ1YK) — DeepLearning.AI
-- [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/2SP9GQANYNVH) — IBM
-- [CCNA: Introduction to Networks](https://www.credly.com/badges/2f458795-8370-43e8-8db4-57f69b702dae) — Cisco
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/OWIF2SLE79NP) — Stanford Online / DeepLearning.AI  
+- [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/8R9UZSEY8NAU) — Stanford Online / DeepLearning.AI  
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/MJDYEU0CQ1YK) — DeepLearning.AI  
+- [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/2SP9GQANYNVH) — IBM  
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/2f458795-8370-43e8-8db4-57f69b702dae) — Cisco  
 
 ---
 
-## Contact
+### Connect
 
-[hgusha2010@gmail.com](mailto:hgusha2010@gmail.com) · [linkedin.com/in/hgus-weldeyowhanes](https://www.linkedin.com/in/hgus-weldeyowhanes/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hgus-weldeyowhanes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hgusha2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+Open to **backend**, **ML engineering**, and **full-stack** roles — happy to chat.
+
+---
+
+<div align="center">
+
+*Build systems that are clear, measurable, and useful.*
+
+</div>
