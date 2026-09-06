@@ -37,7 +37,7 @@ I build **production backends** and **useful ML systems**—APIs, real-time serv
 | [**diabetes-risk-prediction**](https://github.com/hgusweldeyowhanes/diabetes-risk-prediction) | Clinical risk scoring with ensemble ML + explanations | ![Python](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) Django · React |
 | [**website-Phishing-detector**](https://github.com/hgusweldeyowhanes/website-Phishing-detector) | Classify suspicious URLs | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) scikit-learn |
 
-More work: [**portfolio**](https://github.com/hgusweldeyowhanes/portfolio) · [world population analysis](https://github.com/hgusweldeyowhanes/world-population-analysis) · [Twitter sentiment EDA](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) · [DES encryption](https://github.com/hgusweldeyowhanes/DES-Python-Encryption)
+More work: [world population analysis](https://github.com/hgusweldeyowhanes/world-population-analysis) · [Twitter sentiment EDA](https://github.com/hgusweldeyowhanes/twitter-sentiment-analysis-eda) · [DES encryption](https://github.com/hgusweldeyowhanes/DES-Python-Encryption)
 
 All repos → [github.com/hgusweldeyowhanes?tab=repositories](https://github.com/hgusweldeyowhanes?tab=repositories)
 
