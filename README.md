@@ -84,7 +84,7 @@ All repos → [github.com/hgusweldeyowhanes?tab=repositories](https://github.com
   <a href="https://github.com/hgusweldeyowhanes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-Open to **backend**, **ML engineering**, and **full-stack** roles — happy to chat.
+Open to **backend**, **ML engineering**, and **full-stack** roles happy to chat.
 
 ---
 
