@@ -17,7 +17,7 @@ Backend, APIs, and applied ML — shipping products with **Python / Django**, **
 
 ### About
 
-I build **production backends** and **useful ML systems**—APIs, real-time services, and models that leave the notebook.
+I build **production backends** and **useful ML&AI systems**—APIs, real-time services, and models that leave the notebook.
 
 - Open to senior-level roles (backend · ML · full-stack)
 - Stack focus: Django / DRF, ASP.NET, PostgreSQL, Docker, scikit-learn
